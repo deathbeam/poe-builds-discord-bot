@@ -1,0 +1,27 @@
+{
+  "name": "poe-builds-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "standard",
+    "fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deathbeam/pe-builds-discord-bot.git"
+  },
+  "author": "Tomas Slusny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deathbeam/poe-builds-discord-bot/issues"
+  },
+  "homepage": "https://github.com/deathbeam/poe-builds-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "loglevel": "^1.6.8"
+  },
+  "devDependencies": {
+    "standard": "^14.3.3"
+  }
+}
