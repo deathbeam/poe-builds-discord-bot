@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/deathbeam/poe-builds-discord-bot#readme",
   "dependencies": {
-    "discord.js": "^12.2.0",
+    "discord.js": "^11.4.2",
     "loglevel": "^1.6.8"
   },
   "devDependencies": {
