@@ -19,7 +19,7 @@
   "homepage": "https://github.com/deathbeam/poe-builds-discord-bot#readme",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "winston": "^3.3.3"
   },
   "devDependencies": {
