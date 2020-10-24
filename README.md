@@ -1,4 +1,4 @@
-# poe-builds-discord-bot
+# poe-builds-discord-bot ![CI](https://github.com/deathbeam/poe-builds-discord-bot/workflows/CI/badge.svg)
 
 1. Run `npm install`
 2. Set env `DISCORD_TOKEN` to your Discord bot token
